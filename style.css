@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    color: brown;
+}
+
+div {
+    align-items: center;
+}
+
+input {
+    color: #fff;
+    padding: 10px 30px 10px 30px;
+    font-weight: bold;
+    border-radius: 50px;
+    background-color: #5a298b;
+}
