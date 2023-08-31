@@ -18,6 +18,7 @@ input {
     color: #fff;
     padding: 10px 30px 10px 30px;
     font-weight: bold;
+    border: 5px solid #5a298b;
     border-radius: 50px;
     background-color: #5a298b;
 }
